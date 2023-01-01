@@ -63,7 +63,7 @@ require (
 	github.com/G-Core/gcore-dns-sdk-go v0.2.3
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/kylelemons/godebug v1.1.0
-	github.com/mattn/go-isatty v0.0.16
+	github.com/mattn/go-isatty v0.0.17
 	github.com/vultr/govultr/v2 v2.17.2
 	golang.org/x/exp v0.0.0-20221126150942-6ab00d035af9
 )
