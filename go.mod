@@ -14,8 +14,8 @@ require (
 	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.2.1
 	github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883
 	github.com/aws/aws-sdk-go-v2 v1.17.3
-	github.com/aws/aws-sdk-go-v2/config v1.18.10
-	github.com/aws/aws-sdk-go-v2/credentials v1.13.10
+	github.com/aws/aws-sdk-go-v2/config v1.18.11
+	github.com/aws/aws-sdk-go-v2/credentials v1.13.11
 	github.com/aws/aws-sdk-go-v2/service/route53 v1.27.0
 	github.com/aws/aws-sdk-go-v2/service/route53domains v1.14.0
 	github.com/babolivier/go-doh-client v0.0.0-20201028162107-a76cff4cb8b6
